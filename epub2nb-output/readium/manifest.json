@@ -1,0 +1,230 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Těžká hodina",
+    "identifier": "2b9b65cc-36da-4c3f-9d77-86b123dabf42",
+    "author": "Jiří Wolker",
+    "language": "cs",
+    "modified": "2022-01-24T15:47:15.582Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "TĚŽKÁ HODINA",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "title": "BALADA O NENAROZENÉM DÍTĚTI",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "SLEPÍ MUZIKANTI",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "ČEPOBITÍ",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "TVÁŘ ZA SKLEM",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "KÁZÁNÍ NA HOŘE",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "OČI",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "JARO",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "title": "BÁSEŇ MILOSTNÁ",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "title": "BALADA O SNU",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "title": "SLOKY",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "title": "POHŘEB",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "title": "MUŽ",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "title": "FOTOGRAFIE",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "title": "DŮM V NOCI",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "title": "SETKÁNÍ",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "title": "MIROGOJ",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "title": "NĚVĚRNÁ",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "title": "ODJEZD",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "title": "MILENCI",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "title": "BALADA O OČÍCH TOPIČOVÝCH",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "title": "MOŘE",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    }
+  ]
+}
