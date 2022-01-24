@@ -32,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "section0001.md",
@@ -71,7 +72,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "TĚŽKÁ HODINA"
           },
           {
             "filename": "section0004.md",
@@ -81,7 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "BALADA O NENAROZENÉM DÍTĚTI"
           },
           {
             "filename": "section0005.md",
@@ -91,7 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "SLEPÍ MUZIKANTI\n"
           },
           {
             "filename": "section0006.md",
@@ -101,7 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ČEPOBITÍ\n"
           },
           {
             "filename": "section0007.md",
@@ -111,7 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "TVÁŘ ZA SKLEM\n"
           },
           {
             "filename": "section0008.md",
@@ -121,7 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KÁZÁNÍ NA HOŘE\n"
           },
           {
             "filename": "section0009.md",
@@ -131,7 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OČI\n"
           },
           {
             "filename": "section0010.md",
@@ -141,7 +149,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JARO\n"
           },
           {
             "filename": "section0011.md",
@@ -151,7 +160,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "BÁSEŇ MILOSTNÁ\n"
           },
           {
             "filename": "section0012.md",
@@ -161,7 +171,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "BALADA O SNU\n"
           },
           {
             "filename": "section0013.md",
@@ -171,7 +182,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "SLOKY\n"
           },
           {
             "filename": "section0014.md",
@@ -181,7 +193,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "POHŘEB"
           },
           {
             "filename": "section0015.md",
@@ -191,7 +204,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "MUŽ"
           },
           {
             "filename": "section0016.md",
@@ -201,7 +215,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "FOTOGRAFIE\n"
           },
           {
             "filename": "section0017.md",
@@ -211,7 +226,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DŮM V NOCI\n"
           },
           {
             "filename": "section0018.md",
@@ -221,7 +237,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "SETKÁNÍ"
           },
           {
             "filename": "section0019.md",
@@ -231,7 +248,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "MIROGOJ\n"
           },
           {
             "filename": "section0020.md",
@@ -241,7 +259,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "NĚVĚRNÁ\n"
           },
           {
             "filename": "section0021.md",
@@ -251,7 +270,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ODJEZD\n"
           },
           {
             "filename": "section0022.md",
@@ -261,7 +281,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "MILENCI\n"
           },
           {
             "filename": "section0023.md",
@@ -271,7 +292,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "BALADA O OČÍCH TOPIČOVÝCH\n"
           },
           {
             "filename": "section0024.md",
@@ -281,7 +303,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "MOŘE\n"
           },
           {
             "filename": "section0003.md",
@@ -302,7 +325,7 @@
       "title": "Těžká hodina",
       "identifier": "2b9b65cc-36da-4c3f-9d77-86b123dabf42",
       "author": "Jiří Wolker",
-      "modified": "2022-01-24T16:05:02.257Z"
+      "modified": "2022-01-24T16:13:22.466Z"
     },
     "chapters": [
       {
@@ -492,6 +515,6 @@
       "user": "books-are-next",
       "repo": "tezka-hodina"
     },
-    "generatedAt": 1643040302507
+    "generatedAt": 1643040802784
   }
 }
