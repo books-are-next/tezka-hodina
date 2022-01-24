@@ -1,0 +1,684 @@
+{
+  "author": "Jiří Wolker",
+  "identifier": "wolker-tezka-hodina-8dda1e4",
+  "languagecode": "cs",
+  "modified": "2022-01-24T15:47:15.582Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Těžká hodina",
+  "revision": "8dda1e4",
+  "generatedAt": {
+    "date": "Mon Jan 24 2022 16:05:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1643040355975
+  },
+  "documents": [
+    {
+      "title": "Těžká hodina",
+      "file": "section0001.html",
+      "words": 2,
+      "chars": 0,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0002.html",
+      "words": 184,
+      "chars": 1012,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0001.html",
+      "next": "section0004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "TĚŽKÁ HODINA",
+              "id": "těžká-hodina",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0004.html",
+      "words": 579,
+      "chars": 3056,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0002.html",
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "BALADA O NENAROZENÉM DÍTĚTI",
+              "id": "balada-onbspnenarozeném-dítěti",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0005.html",
+      "words": 87,
+      "chars": 487,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "SLEPÍ MUZIKANTI",
+              "id": "slepí-muzikanti",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0006.html",
+      "words": 184,
+      "chars": 1014,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ČEPOBITÍ",
+              "id": "čepobití",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0007.html",
+      "words": 189,
+      "chars": 1034,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "TVÁŘ ZA SKLEM",
+              "id": "tvář-zanbspsklem",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0008.html",
+      "words": 225,
+      "chars": 1236,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "KÁZÁNÍ NA HOŘE",
+              "id": "kázání-nanbsphoře",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0009.html",
+      "words": 213,
+      "chars": 1195,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "OČI",
+              "id": "oči",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0010.html",
+      "words": 328,
+      "chars": 1784,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "JARO",
+              "id": "jaro",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0011.html",
+      "words": 80,
+      "chars": 405,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "BÁSEŇ MILOSTNÁ",
+              "id": "báseň-milostná",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0012.html",
+      "words": 691,
+      "chars": 3706,
+      "ideas": 133,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "BALADA O SNU",
+              "id": "balada-onbspsnu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0013.html",
+      "words": 167,
+      "chars": 847,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "SLOKY",
+              "id": "sloky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0014.html",
+      "words": 282,
+      "chars": 1647,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "POHŘEB",
+              "id": "pohřeb",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0015.html",
+      "words": 308,
+      "chars": 1660,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "MUŽ",
+              "id": "muž",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0016.html",
+      "words": 192,
+      "chars": 1130,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "FOTOGRAFIE",
+              "id": "fotografie",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0017.html",
+      "words": 236,
+      "chars": 1303,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "DŮM V NOCI",
+              "id": "dům-vnbspnoci",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0018.html",
+      "words": 191,
+      "chars": 1033,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "SETKÁNÍ",
+              "id": "setkání",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0019.html",
+      "words": 195,
+      "chars": 1046,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "MIROGOJ",
+              "id": "mirogoj",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0020.html",
+      "words": 153,
+      "chars": 795,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "NĚVĚRNÁ",
+              "id": "něvěrná",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0021.html",
+      "words": 111,
+      "chars": 627,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ODJEZD",
+              "id": "odjezd",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0022.html",
+      "words": 109,
+      "chars": 585,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "MILENCI",
+              "id": "milenci",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0023.html",
+      "words": 503,
+      "chars": 2734,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "BALADA O OČÍCH TOPIČOVÝCH",
+              "id": "balada-onbspočích-topičových",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Těžká hodina",
+      "file": "section0024.html",
+      "words": 399,
+      "chars": 2202,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 22,
+      "prev": "section0023.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "MOŘE",
+              "id": "moře",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Těžká hodina",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 1084,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0024.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5762,
+      "chars": 31648,
+      "ideas": 1066
+    },
+    "chapters": {
+      "words": 5608,
+      "chars": 30538,
+      "ideas": 1047
+    }
+  }
+}
