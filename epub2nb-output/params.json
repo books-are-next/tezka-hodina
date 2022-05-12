@@ -324,8 +324,7 @@
     "metadata": {
       "title": "Těžká hodina",
       "identifier": "2b9b65cc-36da-4c3f-9d77-86b123dabf42",
-      "author": "Jiří Wolker",
-      "modified": "2022-01-24T16:13:22.466Z"
+      "author": "Jiří Wolker"
     },
     "chapters": [
       {
@@ -515,6 +514,6 @@
       "user": "books-are-next",
       "repo": "tezka-hodina"
     },
-    "generatedAt": 1643040802784
+    "generatedAt": 1652351411372
   }
 }

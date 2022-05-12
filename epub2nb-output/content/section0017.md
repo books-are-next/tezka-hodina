@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ## DŮM V NOCI  

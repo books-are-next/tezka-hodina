@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ## KÁZÁNÍ NA HOŘE  

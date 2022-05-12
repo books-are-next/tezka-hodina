@@ -1,5 +1,5 @@
 ---
-{}
+contentType: prose
 ---
 
 ## BALADA O NENAROZENÉM DÍTĚTI  

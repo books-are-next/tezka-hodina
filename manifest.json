@@ -1,15 +1,43 @@
 {
-  "author": "Jiří Wolker",
-  "identifier": "wolker-tezka-hodina-1f3844c",
-  "languagecode": "cs",
-  "modified": "2022-01-24T15:47:15.582Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Těžká hodina",
-  "revision": "1f3844c",
+  "author": "Jiří Wolker",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "wolker-tezka-hodina-85f6505",
+  "revision": "85f6505",
+  "readingOrder": [
+    "section0001.html",
+    "section0002.html",
+    "section0004.html",
+    "section0005.html",
+    "section0006.html",
+    "section0007.html",
+    "section0008.html",
+    "section0009.html",
+    "section0010.html",
+    "section0011.html",
+    "section0012.html",
+    "section0013.html",
+    "section0014.html",
+    "section0015.html",
+    "section0016.html",
+    "section0017.html",
+    "section0018.html",
+    "section0019.html",
+    "section0020.html",
+    "section0021.html",
+    "section0022.html",
+    "section0023.html",
+    "section0024.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Jan 24 2022 16:14:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1643040859297
+    "date": "Thu May 12 2022 10:38:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351917064
   },
   "documents": [
     {
@@ -649,11 +677,11 @@
       ]
     },
     {
-      "title": "Tiráž • Těžká hodina",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 1084,
-      "ideas": 16,
+      "words": 132,
+      "chars": 934,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "section0024.html",
@@ -671,9 +699,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5762,
-      "chars": 31648,
-      "ideas": 1066
+      "words": 5745,
+      "chars": 31498,
+      "ideas": 1064
     },
     "chapters": {
       "words": 5608,
