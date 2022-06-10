@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## BALADA O SNU
 
 #### J. Seifertovi
@@ -152,3 +154,5 @@ Musí se zabít,
 musí se žít,  
 ruce jsou zbraně,  
 srdce štít!
+
+</section>

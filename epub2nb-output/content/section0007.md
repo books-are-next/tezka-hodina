@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## TVÁŘ ZA SKLEM
 
 Kavárna „Bellevue“ je říše  
@@ -40,3 +42,5 @@ z šedého kouře věnce nosili,
 před okny žila ulice, bída a sníh,  
 za okny civěly mohyly  
 v kavárně „Bellevue“.
+
+</section>

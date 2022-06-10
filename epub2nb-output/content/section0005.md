@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## SLEPÍ MUZIKANTI  
 
 Dva slepí muzikanti  
@@ -33,3 +35,5 @@ Harmonika a housle,
 dva slepí žebráci  
 sto očí vyhráli lidem,  
 dostali po krejcaru.
+
+</section>

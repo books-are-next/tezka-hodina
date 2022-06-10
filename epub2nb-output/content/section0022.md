@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## MILENCI  
 
 Na jižních domcích, na domcích z kamene  
@@ -23,3 +25,5 @@ Sta věcí hranatých z krve a kamení,
 sta bludných balvanů, v něž zaklet je květ.  
 Věříš, že pěst má je ve věnce promění?  
 Počkáš, — až s tebou obejmu svět?
+
+</section>

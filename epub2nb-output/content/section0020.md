@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## NĚVĚRNÁ  
 
 Černé oči měla,  
@@ -57,3 +59,5 @@ se všemi hvězdami,
 a patří-li někomu  
 na věky, na věky,  
 — tož patří noci.
+
+</section>

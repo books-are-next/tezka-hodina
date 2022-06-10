@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## MOŘE  
 
 Na břehu ostrova Krku, na břehu z kamení  
@@ -60,3 +62,5 @@ Zahrej, chraplavý aristone, ptáku mi nad jiné milý,
 svět jsou jen ti, kteří jej živí, by z něho živi byli,  
 moře jsme my, dělníci zvlněných svalů, cizí i zdejší,  
 my, skutečnost jediná, skutečnost nejskutečnější!
+
+</section>

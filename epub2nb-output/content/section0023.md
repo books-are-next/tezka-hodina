@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## BALADA O OČÍCH TOPIČOVÝCH  
 
 Utichly továrny, utichly ulice,  
@@ -104,3 +106,5 @@ Antonín umírá,
 
 Ženo má, — ženo má,  
 neplač!
+
+</section>

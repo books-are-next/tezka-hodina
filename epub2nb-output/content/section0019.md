@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## MIROGOJ  
 
 Na záhřebském hřbitově, na Mirogoji  
@@ -34,3 +36,5 @@ a otázku vaši těžkou a slavnou jak zvon
 co možno nejvýše v hrudi své zavěšuji,  
 z rozkazu božího živý s živými žít budu ji,  
 živou otázku vaši, — ó mrtví ze všech front světa!
+
+</section>
