@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## BALADA O NENAROZENÉM DÍTĚTI  
 
 Nejdřív se na sebe usmáli,  
@@ -151,3 +153,5 @@ lidé se na zemi milují
 a láska nenarodí se.  
 
 Nenarodí se?
+
+</section>

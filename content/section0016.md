@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## FOTOGRAFIE  
 
 U Topiče ve výkladní skříni  
@@ -41,3 +43,5 @@ Aby ten každý, kdo hoduje dnes tu a pije,
 na každém talíři, na každé sklenici  
 narazit musel na mrtvoly křičící:  
 Lidojede! Lidojede!
+
+</section>

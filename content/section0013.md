@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## SLOKY  
 
 Sníh padá na město, na město zšeřelé,  
@@ -36,3 +38,5 @@ jen bílým obkladem ti bude na čele
 
 a z věží hodiny se s ptáky rozletí.  
 Neb bolest přemoci je víc než trpěti.
+
+</section>

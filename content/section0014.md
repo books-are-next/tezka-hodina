@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## POHŘEB  
 
 Anežka Skládalová  
@@ -65,3 +67,5 @@ zahrado zelená,
 do tebe sejou se  
 nejdražší semena,  
 aby rostla.
+
+</section>

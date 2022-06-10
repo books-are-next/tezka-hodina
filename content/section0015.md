@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## MUŽ  
 
 Uprostřed noci  
@@ -50,3 +52,5 @@ zda sílu zachovám, kterou mi mrtvý dal,
 bych zemřel jako on, do noci nevolal,  
 do noci nesmírné, záhadné a prosté,  
 v níž stařec umírá a děcko ve snu roste?
+
+</section>

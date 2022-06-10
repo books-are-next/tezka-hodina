@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## OČI
 
 #### (Malíři O. Lasákovi)
@@ -43,3 +45,5 @@ protože nelaská,
 ale nabije  
 všechny tvé smysly nesmělé  
 střelami ohně a ocele.
+
+</section>

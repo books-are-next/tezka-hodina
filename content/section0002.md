@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## TĚŽKÁ HODINA  
 
 Přišel jsem na svět,  
@@ -40,3 +42,5 @@ dle obrazu jeho
 Já mužné srdce ještě nemám,  
 sám v těžké své hodině;  
 a proto nevěřím.
+
+</section>

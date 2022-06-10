@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## DŮM V NOCI  
 
 Uprostřed noci stojí dům,  
@@ -55,3 +57,5 @@ poznává, že nad svět větší je tělo, jež objímá,
 a říká: Jsme sami,  
 sami, — sami —  
 a je nás tak mnoho!
+
+</section>

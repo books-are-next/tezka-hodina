@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## KÁZÁNÍ NA HOŘE  
 
 Já jsem řečník chorý,  
@@ -54,3 +56,5 @@ Mrtví na ulicích oživnou,
 muziky ve vsi zahrají,  
 na cestách rozkvete kamení,  
 my sami budem si vráceni.
+
+</section>

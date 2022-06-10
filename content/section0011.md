@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## BÁSEŇ MILOSTNÁ  
 
 Řeklas mi, že jenom v očích tvých je celý svět,  
@@ -20,3 +22,5 @@ proč jsi dopustila,
 že dělník dnes ráno s lešení spadl  
 a před mýma očima  
 se zabil?
+
+</section>

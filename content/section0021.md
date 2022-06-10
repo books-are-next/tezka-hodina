@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## ODJEZD  
 
 Krajina okolo nádraží  
@@ -24,3 +26,5 @@ v černých svých vagónech, jimiž hvězdy v pochod tlukou.
 Nelíbej, milenko, toho, kdo tu už není!  
 Ve chvílích loučení jsme dávno rozloučeni  
 a ten, kdo sbohem dává, — nedosahuje rukou.
+
+</section>

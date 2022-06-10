@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## ČEPOBITÍ  
 
 Trubači troubili čepobití  
@@ -46,3 +48,5 @@ aby vojáci, služky, mládenci a panny,
 všichni, kdo se rádi mají a jsou rozloučeni,  
 po naší silnici mohli si naproti jíti  
 dle srdce svého.
+
+</section>
