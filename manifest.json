@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-tezka-hodina-8c3821b",
-  "revision": "8c3821b",
+  "identifier": "wolker-tezka-hodina-bfde704",
+  "revision": "bfde704",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:12:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949547219
+    "date": "Mon Jun 13 2022 21:58:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157524407
   },
   "documents": [
     {
@@ -692,9 +692,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 65,
-      "chars": 538,
-      "ideas": 7,
+      "words": 132,
+      "chars": 934,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "section0024.html",
@@ -712,9 +712,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5678,
-      "chars": 31102,
-      "ideas": 1057
+      "words": 5745,
+      "chars": 31498,
+      "ideas": 1064
     },
     "chapters": {
       "words": 5608,
