@@ -11,6 +11,8 @@ meta:
   publisher: Městská knihovna v Praze
   publisherShort: mkp
   languageCode: cs
+  contentType: poetry
+  edition: poezie
 readingOrder:
   - promo.html
   - section0001.html
