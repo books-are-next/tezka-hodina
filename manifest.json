@@ -5,10 +5,11 @@
   "title": "Těžká hodina",
   "author": "Jiří Wolker",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-tezka-hodina-3c54199",
-  "revision": "3c54199",
+  "identifier": "wolker-tezka-hodina-05845dd",
+  "revision": "05845dd",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -37,8 +38,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 06:00:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272816020
+    "date": "Thu Jun 16 2022 07:34:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364845309
   },
   "documents": [
     {
@@ -712,9 +713,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5774,
-      "chars": 31716,
-      "ideas": 1065
+      "words": 5775,
+      "chars": 31722,
+      "ideas": 1066
     },
     "chapters": {
       "words": 5608,

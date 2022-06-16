@@ -7,7 +7,9 @@
       "modified": "2022-01-24T15:47:15.582Z",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "",
@@ -514,6 +516,6 @@
       "user": "books-are-next",
       "repo": "tezka-hodina"
     },
-    "generatedAt": 1655271907158
+    "generatedAt": 1655364360720
   }
 }
