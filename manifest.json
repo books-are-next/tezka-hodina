@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-tezka-hodina-cf3d26b",
-  "revision": "cf3d26b",
+  "identifier": "wolker-tezka-hodina-2d77b69",
+  "revision": "2d77b69",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -35,11 +35,11 @@
     "section0022.html",
     "section0023.html",
     "section0024.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:30:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980221492
+    "date": "Thu Jul 07 2022 08:40:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183235954
   },
   "documents": [
     {
@@ -671,7 +671,7 @@
       "role": "chapter",
       "order": 23,
       "prev": "section0023.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -692,11 +692,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 161,
-      "chars": 1152,
+      "chars": 1149,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "section0024.html",
       "next": null,
@@ -714,7 +714,7 @@
   "totals": {
     "all": {
       "words": 5775,
-      "chars": 31722,
+      "chars": 31719,
       "ideas": 1066
     },
     "chapters": {
