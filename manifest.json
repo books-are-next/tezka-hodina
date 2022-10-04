@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-tezka-hodina-66a455e",
-  "revision": "66a455e",
+  "identifier": "wolker-tezka-hodina-57d594f",
+  "revision": "57d594f",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:54:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664902460799
+    "date": "Tue Oct 04 2022 18:50:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664909431634
   },
   "documents": [
     {
