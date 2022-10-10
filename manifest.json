@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wolker-tezka-hodina-88dd2ac",
-  "revision": "88dd2ac",
+  "identifier": "wolker-tezka-hodina-5941e37",
+  "revision": "5941e37",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:07:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151664627
+    "date": "Mon Oct 10 2022 15:59:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417596571
   },
   "documents": [
     {
@@ -694,7 +694,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 159,
-      "chars": 1152,
+      "chars": 1155,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -714,7 +714,7 @@
   "totals": {
     "all": {
       "words": 5773,
-      "chars": 31722,
+      "chars": 31725,
       "ideas": 1064
     },
     "chapters": {
